@@ -1,0 +1,52 @@
+.navText{
+    color: white;
+}
+
+nav h4{
+    color: white;
+}
+
+.searchBar{
+    width: 300px;
+}
+
+i{
+    color: white;
+}
+
+.flexDiv h1{
+    line-height: 150%;
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.flexDiv h4{
+    color: #929092;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+
+.flexDiv{
+
+    padding-top: 10%;
+
+}
+
+hr{
+    visibility: hidden;
+
+}
+
+.leftDiv{
+    margin-left: 7%;
+}
+
+
+
+.nft{
+    width: 45%;
+}
